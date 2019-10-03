@@ -10,4 +10,4 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
   
 ## Metrics
-+ [pltrdy/rouge](https://github.com/pltrdy/rouge)
+  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
