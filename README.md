@@ -16,6 +16,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [UKPLab/naacl2019-cmaps-lshcw](https://github.com/UKPLab/naacl2019-cmaps-lshcw) | [**java**]
 
 ### Single-Document-Summarization (as references)
+- [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
 ## Datasets
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
