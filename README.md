@@ -9,7 +9,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [nlpyang/hiersumm](https://github.com/nlpyang/hiersumm) | [**pytorch**]
 
 - [Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](https://arxiv.org/abs/1906.00072) | [**ACL 2019**]
-  + [ucfnlp/summarization-dpp-capsnet](https://github.com/ucfnlp/summarization-dpp-capsnet)
+  + [ucfnlp/summarization-dpp-capsnet](https://github.com/ucfnlp/summarization-dpp-capsnet) | [**keras**]
 
 ## Datasets
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
