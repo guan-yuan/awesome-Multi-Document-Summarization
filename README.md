@@ -11,6 +11,9 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](https://arxiv.org/abs/1906.00072) | [**ACL 2019**]
   + [ucfnlp/summarization-dpp-capsnet](https://github.com/ucfnlp/summarization-dpp-capsnet) | [**keras**]
 
+- [Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/) | [**NAACL 2019**]
+  + [UKPLab/naacl2019-cmaps-lshcw](https://github.com/UKPLab/naacl2019-cmaps-lshcw) | [**java**]
+
 ## Datasets
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
