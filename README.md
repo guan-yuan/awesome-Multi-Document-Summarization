@@ -17,7 +17,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 #### Unsupervised
 - [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)  | [**ICML 2019**]
-  + [sosuperic/MeanSum](https://github.com/sosuperic/MeanSum) [****]
+  + [sosuperic/MeanSum](https://github.com/sosuperic/MeanSum) [**pytorch**]
 
 ### Single-Document-Summarization (as references)
 - [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
