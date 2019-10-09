@@ -15,6 +15,10 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/) | [**NAACL 2019**]
   + [UKPLab/naacl2019-cmaps-lshcw](https://github.com/UKPLab/naacl2019-cmaps-lshcw) | [**java**]
 
+#### Unsupervised
+- [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)  | [**ICML 2019**]
+  + [sosuperic/MeanSum](https://github.com/sosuperic/MeanSum) [****]
+
 ### Single-Document-Summarization (as references)
 - [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
