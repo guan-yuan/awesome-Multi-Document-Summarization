@@ -20,12 +20,24 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)  | [**ICML 2019**]
   + [sosuperic/MeanSum](https://github.com/sosuperic/MeanSum) [**pytorch**]
 
-### Single-Document-Summarization (as references)
-- [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
+- [Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion](https://www.aclweb.org/anthology/C18-1102/) | [**COLING 2018**]
 
-## Datasets
+- [Unsupervised Semantic Abstractive Summarization](https://aclweb.org/anthology/P18-3011/) | [**ACL 2018**]
+
+#### Datasets
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
+
+### Single-Document-Summarization (as references)
+#### Supervised
+- [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
+
+#### Unsupervised
   
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
+ 
+ ## References
+ - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
+ 
+ - [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization)
