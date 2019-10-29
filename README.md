@@ -14,8 +14,6 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [ucfnlp/summarization-dpp-capsnet](https://github.com/ucfnlp/summarization-dpp-capsnet) | [**keras**]
 
 - [Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/) | [**NAACL 2019**]
-
-- [Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/) | [**NAACL 2019**]
   + [UKPLab/naacl2019-cmaps-lshcw](https://github.com/UKPLab/naacl2019-cmaps-lshcw) | [**java**]
 
 #### Unsupervised
