@@ -35,6 +35,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 #### Unsupervised
 - [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [https://arxiv.org/abs/1907.13337] | [**ACL 2019**]
 
+- [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
+
 #### Datasets
 
 ## Metrics
