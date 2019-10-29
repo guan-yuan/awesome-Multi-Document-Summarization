@@ -34,6 +34,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
+- [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/) | [**ACL 2017**]
+
 #### Unsupervised
 - [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [https://arxiv.org/abs/1907.13337] | [**ACL 2019**]
 
