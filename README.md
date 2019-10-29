@@ -30,6 +30,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 ### Single-Document-Summarization (as references)
 #### Supervised
+* [Guiding Extractive Summarization with Question-Answering Rewards](https://arxiv.org/abs/1904.02321) | [**NAACL 2019**]
+
 - [Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318) | [2019/09]
 
 - [Structured Neural Summarization](https://arxiv.org/abs/1811.01824) | [**ICLR 2019**]
