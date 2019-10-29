@@ -30,6 +30,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 ### Single-Document-Summarization (as references)
 #### Supervised
+- [Structured Neural Summarization](https://arxiv.org/abs/1811.01824) | [**ICLR 2019**]
+
 - [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
 #### Unsupervised
