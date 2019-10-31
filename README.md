@@ -43,6 +43,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266) | [**ACL 2018**]
 
+- [Generating Topic-Oriented Summaries Using Neural Attention](https://www.aclweb.org/anthology/N18-1153/) | [**NAACL 2018**]
+
 - [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/) | [**ACL 2017**]
 
 #### Unsupervised
