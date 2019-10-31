@@ -46,9 +46,11 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/) | [**ACL 2017**]
 
 #### Unsupervised
+- [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
+
 - [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [https://arxiv.org/abs/1907.13337] | [**ACL 2019**]
 
-- [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
+- [SEQˆ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression](https://www.aclweb.org/anthology/N19-1071/) | [**NAACL 2019**]
 
 - [Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks](https://arxiv.org/abs/1810.02851) | [**EMNLP 2018**]
 
