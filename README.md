@@ -31,6 +31,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 ### Single-Document-Summarization (as references)
 #### Supervised
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) | [**NeurIPS 2019**]
+  + [microsoft/unilm](https://github.com/microsoft/unilm)
 
 - [Guiding Extractive Summarization with Question-Answering Rewards](https://arxiv.org/abs/1904.02321) | [**NAACL 2019**]
 
