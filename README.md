@@ -48,6 +48,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
 
+- [Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks](https://arxiv.org/abs/1810.02851) | [**EMNLP 2018**]
+
 #### Datasets
 
 ## Metrics
