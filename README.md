@@ -33,15 +33,15 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) | [**NeurIPS 2019**]
   + [microsoft/unilm](https://github.com/microsoft/unilm)
 
-- [Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318) | [2019/09]
+- [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
-- [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266) | [**ACL 2019**]
+- [Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318) | [2019/09]
 
 - [Guiding Extractive Summarization with Question-Answering Rewards](https://arxiv.org/abs/1904.02321) | [**NAACL 2019**]
 
 - [Structured Neural Summarization](https://arxiv.org/abs/1811.01824) | [**ICLR 2019**]
 
-- [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
+- [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266) | [**ACL 2018**]
 
 - [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/) | [**ACL 2017**]
 
