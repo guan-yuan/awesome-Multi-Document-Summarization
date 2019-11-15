@@ -68,7 +68,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
  
- - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960)
+ - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960) | [**EMNLP 2019**]
  
  ## References
  - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
