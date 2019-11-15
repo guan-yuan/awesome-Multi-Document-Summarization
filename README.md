@@ -28,6 +28,10 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
 
+
+---
+
+
 ### Single-Document-Summarization (as references)
 #### Supervised
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) | [**NeurIPS 2019**]
