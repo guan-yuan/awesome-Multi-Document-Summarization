@@ -55,6 +55,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
 
 - [Sentence Centrality Revisited for Unsupervised Summarization](https://arxiv.org/abs/1906.03508) | [**ACL 2019**]
+  + [mswellhao/PacSum](https://github.com/mswellhao/PacSum)
 
 - [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [**ACL 2019**]
 
@@ -66,6 +67,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
+ 
+ - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960)
  
  ## References
  - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
