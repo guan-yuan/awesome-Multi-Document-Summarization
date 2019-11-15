@@ -43,9 +43,14 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [Guiding Extractive Summarization with Question-Answering Rewards](https://arxiv.org/abs/1904.02321) | [**NAACL 2019**]
 
+- [Abstractive Text Summarization by Incorporating Reader Comments](https://arxiv.org/abs/1812.05407) | [**AAAI 2019**]
+
 - [Structured Neural Summarization](https://arxiv.org/abs/1811.01824) | [**ICLR 2019**]
 
 - [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266) | [**ACL 2018**]
+
+- [Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization](https://www.aclweb.org/anthology/P18-2115/) | [**ACL 2018**]
+  + [lancopku/superAE](https://github.com/lancopku/superAE)
 
 - [Generating Topic-Oriented Summaries Using Neural Attention](https://www.aclweb.org/anthology/N18-1153/) | [**NAACL 2018**]
 
@@ -65,6 +70,9 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 #### Datasets
 
+#### 中文 Datasets
+- [LCSTS: A Large Scale Chinese Short Text Summarization Dataset](https://www.aclweb.org/anthology/D15-1229/)
+
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
  
@@ -74,3 +82,4 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
  - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
  
  - [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization)
+ - [ChineseNLP](https://chinesenlp.xyz/zh/docs/text_summarization.html)
