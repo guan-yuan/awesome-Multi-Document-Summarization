@@ -50,7 +50,9 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 #### Unsupervised
 - [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
 
-- [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [https://arxiv.org/abs/1907.13337] | [**ACL 2019**]
+- [Sentence Centrality Revisited for Unsupervised Summarization](https://arxiv.org/abs/1906.03508) | [**ACL 2019**]
+
+- [Simple Unsupervised Summarization by Contextual Matching](https://arxiv.org/abs/1907.13337) | [**ACL 2019**]
 
 - [SEQˆ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression](https://www.aclweb.org/anthology/N19-1071/) | [**NAACL 2019**]
 
