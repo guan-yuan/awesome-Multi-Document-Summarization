@@ -68,6 +68,9 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks](https://arxiv.org/abs/1810.02851) | [**EMNLP 2018**]
 
+- [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1) | [2018/08]
+  + [jatana-research/email-summarization](https://github.com/jatana-research/email-summarization)
+
 #### Datasets
 
 #### 中文 Datasets
