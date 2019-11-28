@@ -77,6 +77,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [LCSTS: A Large Scale Chinese Short Text Summarization Dataset](https://www.aclweb.org/anthology/D15-1229/)
 
 - [NLPCC 2017 Shared Task](http://tcci.ccf.org.cn/conference/2017/taskdata.php)
+  + [yangzhiye/NLPCC2017-task3](https://github.com/yangzhiye/NLPCC2017-task3)
 
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
