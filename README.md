@@ -24,6 +24,10 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [Unsupervised Semantic Abstractive Summarization](https://aclweb.org/anthology/P18-3011/) | [**ACL 2018**]
 
+- [Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613) | [**AAAI 2017**]
+
+- [An Unsupervised Multi-Document Summarization Framework Based on Neural Document Model](https://www.aclweb.org/anthology/C16-1143/) | [**COLING 2016**]
+
 #### Datasets
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
@@ -79,12 +83,20 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [NLPCC 2017 Shared Task](http://tcci.ccf.org.cn/conference/2017/taskdata.php)
   + [yangzhiye/NLPCC2017-task3](https://github.com/yangzhiye/NLPCC2017-task3)
 
+
+===
+
+
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
  
  - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960) | [**EMNLP 2019**]
- 
- ## References
+
+
+===
+
+
+## References
  - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
  
  - [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization)
