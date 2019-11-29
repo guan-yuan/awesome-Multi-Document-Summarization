@@ -84,7 +84,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [yangzhiye/NLPCC2017-task3](https://github.com/yangzhiye/NLPCC2017-task3)
 
 
-===
+---
 
 
 ## Metrics
@@ -93,7 +93,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
  - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960) | [**EMNLP 2019**]
 
 
-===
+---
 
 
 ## References
