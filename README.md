@@ -87,6 +87,15 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 ---
 
 
+## Sentence Embeddings
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) 
+ [**EMNLP 2019**]
+  + [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+
+
+---
+
+
 ## Metrics
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
  
