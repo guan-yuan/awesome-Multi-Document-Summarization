@@ -44,6 +44,7 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186) | [2019/09]
 
 - [Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318) | [2019/09]
+  + [nlpyang/BertSum](https://github.com/nlpyang/BertSum)
 
 - [Guiding Extractive Summarization with Question-Answering Rewards](https://arxiv.org/abs/1904.02321) | [**NAACL 2019**]
 
