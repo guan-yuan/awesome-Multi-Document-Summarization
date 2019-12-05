@@ -103,6 +103,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
  + [pltrdy/rouge](https://github.com/pltrdy/rouge)
  
  - [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/abs/1908.08960) | [**EMNLP 2019**]
+ 
+ - [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/abs/1909.01610) | [**EMNLP 2019**]
 
 
 ---
