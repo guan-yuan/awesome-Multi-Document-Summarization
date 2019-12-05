@@ -64,6 +64,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 #### Unsupervised
 - [SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders](https://arxiv.org/abs/1910.00998) | [2019/10]
 
+- [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://arxiv.org/abs/1909.07405) | [**EMNLP 2019**]
+
 - [Sentence Centrality Revisited for Unsupervised Summarization](https://arxiv.org/abs/1906.03508) | [**ACL 2019**]
   + [mswellhao/PacSum](https://github.com/mswellhao/PacSum)
 
