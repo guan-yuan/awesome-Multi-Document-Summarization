@@ -4,6 +4,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 ## Papers
 ### Multi-Document-Summarization
 #### Supervised
+- [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://www.aclweb.org/anthology/D19-5404/) | [**EMNLP 2019**]
+
 - [Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749) | [**ACL 2019**]
   + [Alex-Fabbri/Multi-News](https://github.com/Alex-Fabbri/Multi-News) | [**pytorch**]
 
@@ -17,6 +19,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
   + [UKPLab/naacl2019-cmaps-lshcw](https://github.com/UKPLab/naacl2019-cmaps-lshcw) | [**java**]
 
 #### Unsupervised
+- [Unsupervised Aspect-Based Multi-Document Abstractive Summarization](https://www.aclweb.org/anthology/D19-5405/) | [**EMNLP 2019**]
+
 - [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)  | [**ICML 2019**]
   + [sosuperic/MeanSum](https://github.com/sosuperic/MeanSum) [**pytorch**]
 
@@ -38,6 +42,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 ### Single-Document-Summarization (as references)
 #### Supervised
+- [An Entity-Driven Framework for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1323/) | [**EMNLP 2019**]
+
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) | [**NeurIPS 2019**]
   + [microsoft/unilm](https://github.com/microsoft/unilm)
 
