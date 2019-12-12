@@ -111,6 +111,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
  [**EMNLP 2019**]
   + [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 
+- [Semantic Similarity in Sentences and BERT](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677) | [**2019/09**]
+
 
 ---
 
