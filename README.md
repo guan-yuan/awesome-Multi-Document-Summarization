@@ -98,6 +98,10 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [NLPCC 2017 Shared Task](http://tcci.ccf.org.cn/conference/2017/taskdata.php)
   + [yangzhiye/NLPCC2017-task3](https://github.com/yangzhiye/NLPCC2017-task3)
 
+- [Overview of the NLPCC 2018 Shared Task: Single Document Summarization](http://tcci.ccf.org.cn/conference/2018/papers/EV48.pdf)
+
+- [Overview of the NLPCC 2017 Shared Task: Single Document Summarization](http://59.108.48.5/lcwm/wanxj/files/NLPCC2017-Overview.pdf)
+
 
 ---
 
