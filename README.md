@@ -87,6 +87,9 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 - [文本摘要/关键词TextRank算法的优化与思考](https://zhuanlan.zhihu.com/p/41241390)
   + [ArtistScript/FastTextRank](https://github.com/ArtistScript/FastTextRank) | [2018/08]
 
+- [使用TextRank算法为文本生成关键字和摘要](https://www.letiantian.me/2014-12-01-text-rank/)
+  + [letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
+
 #### Datasets
 
 #### 中文 Datasets
