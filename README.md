@@ -89,6 +89,8 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [使用TextRank算法为文本生成关键字和摘要](https://www.letiantian.me/2014-12-01-text-rank/)
   + [letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
+  
+- [isnowfy/snownlp](https://github.com/isnowfy/snownlp)
 
 #### Datasets
 
