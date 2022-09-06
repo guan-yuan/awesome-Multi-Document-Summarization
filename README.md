@@ -83,18 +83,12 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1) | [2018/08]
   + [jatana-research/email-summarization](https://github.com/jatana-research/email-summarization)
-  
-- [文本摘要/关键词TextRank算法的优化与思考](https://zhuanlan.zhihu.com/p/41241390)
-  + [ArtistScript/FastTextRank](https://github.com/ArtistScript/FastTextRank) | [2018/08]
 
-- [使用TextRank算法为文本生成关键字和摘要](https://www.letiantian.me/2014-12-01-text-rank/)
-  + [letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
-  
 - [isnowfy/snownlp](https://github.com/isnowfy/snownlp)
 
 #### Datasets
 
-#### 中文 Datasets
+#### Chinese Datasets
 - [LCSTS: A Large Scale Chinese Short Text Summarization Dataset](https://www.aclweb.org/anthology/D15-1229/)
 
 - [NLPCC 2017 Shared Task](http://tcci.ccf.org.cn/conference/2017/taskdata.php)
