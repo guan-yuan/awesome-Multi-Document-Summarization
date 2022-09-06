@@ -126,6 +126,5 @@ A curated list of Multi-Document Summarization papers, articles, tutorials, slid
 
 ## References
  - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization)
- 
  - [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization)
  - [ChineseNLP](https://chinesenlp.xyz/zh/docs/text_summarization.html)
